@@ -1,4 +1,4 @@
--stop
--being
--a
--wooper
+- stop
+- being
+- a
+- wooper
