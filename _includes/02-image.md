@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![froge](https://cdn.discordapp.com/attachments/724989952890372126/730057423024291850/agalychnis-annae.jpg)
